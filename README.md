@@ -5,6 +5,6 @@
 ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=222222&logo=Sass&logoColor=CC6699&label=)
 ![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
 
-![PhpStorm](https://img.shields.io/static/v1?style=for-the-badge&message=PhpStorm&color=222222&logo=PhpStorm&logoColor=FFFFFF&label=)
+![PhpStorm](https://img.shields.io/static/v1?style=for-the-badge&message=PhpStorm&color=222222&logo=PhpStorm&logoColor=D56AA1&label=)
 ![VSCode](https://img.shields.io/static/v1?style=for-the-badge&message=VSCode&color=222222&logo=Visual+Studio+Code&logoColor=007ACC&label=)
 ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=222222&logo=Figma&logoColor=F24E1E&label=)
